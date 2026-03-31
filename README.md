@@ -17,4 +17,4 @@ A tool to track financial investments, allowing users to add, remove, and monito
 ## 🛠️ Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Naveed-12-Developer/codealpha_tasks.git](https://github.com/Naveed-12-Developer/codealpha_tasks.git)
+   git clone [https://github.com/mehakkeeri006-a11y/codealpha_tasks/tree/main/CodeAlpha_Basic_Chatbox](https://github.com/mehakkeeri006-a11y/codealpha_tasks/tree/main/CodeAlpha_Stock_Tracker)
